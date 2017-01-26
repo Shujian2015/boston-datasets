@@ -6,7 +6,7 @@
 * [Hubway Trip History Data](http://hubwaydatachallenge.org) 25 MB
 * [The Boston Timescape Project](http://timescape.mit.edu)
 * [City of Boston: Open Data](https://data.cityofboston.gov/browse?limitTo=datasets) 111 Datasets
-  (Ranked by accessed number)
+  (Ranked by accessed number below)
   * [Approved Building Permits](https://data.cityofboston.gov/Permitting/Approved-Building-Permits/msk6-43c6)
   * [Crime Incident Reports (July 2012 - August 2015) ](https://data.cityofboston.gov/Public-Safety/Crime-Incident-Reports-July-2012-August-2015-Sourc/7cdf-6fgx)
   * [Property Assessment 2014](https://data.cityofboston.gov/dataset/Property-Assessment-2014/qz7u-kb7x)
@@ -32,7 +32,7 @@
 * [BostonMaps: Open Data](http://bostonopendata.boston.opendata.arcgis.com/datasets?sort_by=relevance) 59 Datasets
 * [Boston Wicked Open Data](https://boston.opendatasoft.com/explore/?sort=modified) 69 Datasets
 * [Massachusetts Open Data](https://data.mass.gov/browse) 69 Datasets
-  (Ranked by accessed number)
+  (Ranked by accessed number below)
   * [Open Meeting Law Pending Complaints](https://data.mass.gov/dataset/Open-Meeting-Law-Pending-Complaints/7znt-2w6a)
   * [Commonwealth Connect reports within Massachusetts State](Commonwealth Connect reports within Massachusetts State)
   * [FLD Debarment List](https://data.mass.gov/dataset/FLD-Debarment-List/gccc-c83i)
