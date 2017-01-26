@@ -2,7 +2,7 @@
 
 * Single dataset:
 
-⋅⋅*[Boston Airbnb Open Data](https://www.kaggle.com/airbnb/boston) 17 MB	
+⋅⋅* [Boston Airbnb Open Data](https://www.kaggle.com/airbnb/boston) 17 MB	
 [Boston Housing](https://archive.ics.uci.edu/ml/datasets/Housing)	50 KB	
 []()
 []()
