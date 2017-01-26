@@ -1,4 +1,5 @@
 # Boston Datasets
+A list of datasets about city of Boston and Massachusetts.
 
 * [Boston Housing](https://archive.ics.uci.edu/ml/datasets/Housing) 50 KB	
 * [Boston Airbnb Open Data](https://www.kaggle.com/airbnb/boston) 17 MB	
