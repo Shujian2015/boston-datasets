@@ -51,7 +51,11 @@ A list of datasets about city of Boston and Massachusetts.
 * [Mass Big Data](http://massbigdata.org/data)
 
 ======
-#### General Dataset 
+### List of Datasets for NYC
+* [NYC OpenData](https://data.cityofnewyork.us/browse) 1670 Datasets
+
+======
+### General Dataset 
 * [AWS Public Datasets](https://aws.amazon.com/public-datasets/)
 * [UCI Data Sets](https://archive.ics.uci.edu/ml/datasets.html)
 * [Kaggle Datasets](https://www.kaggle.com/datasets)
