@@ -10,7 +10,12 @@
 * [Massachusetts Open Data](https://data.mass.gov/browse) 69 Datasets
 * [Mass Big Data](http://massbigdata.org/data)
 
-
+======
+#### General Dataset 
+* [AWS Public Datasets](https://aws.amazon.com/public-datasets/)
+* [UCI Data Sets](https://archive.ics.uci.edu/ml/datasets.html)
+* [Kaggle Datasets](https://www.kaggle.com/datasets)
+* [Awesome Public Datasets](https://github.com/caesar0301/awesome-public-datasets)
 	
 
 		
