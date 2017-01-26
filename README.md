@@ -29,6 +29,7 @@ A list of datasets about city of Boston and Massachusetts.
   * [Boston Police Department FIO](https://data.cityofboston.gov/Public-Safety/Boston-Police-Department-FIO/xmmk-i78r)
   * [Public Works Active Work Zones](https://data.cityofboston.gov/Permitting/Public-Works-Active-Work-Zones/4xn9-dedu)
   * [Master Address List](https://data.cityofboston.gov/City-Services/Master-Address-List/t85d-b449)
+  * [Boston Taxi Data](https://data.cityofboston.gov/Transportation/Boston-Taxi-Data/ypqb-henq)
   * [More](https://data.cityofboston.gov/browse?limitTo=datasets)
 
 * [BostonMaps: Open Data](http://bostonopendata.boston.opendata.arcgis.com/datasets?sort_by=relevance) 59 Datasets
