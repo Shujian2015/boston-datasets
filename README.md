@@ -5,6 +5,7 @@
 * [Boston Marathon Raw Data](https://github.com/llimllib/bostonmarathon) 51 MB
 * [Hubway Trip History Data](http://hubwaydatachallenge.org) 25 MB
 * [The Boston Timescape Project](http://timescape.mit.edu)
+* [Boston Data Project | Harvard Youth Violence Prevention Center | Harvard T.H. Chan School of Public Health](https://www.hsph.harvard.edu/hyvpc/research/)
 * [City of Boston: Open Data](https://data.cityofboston.gov/browse?limitTo=datasets) 111 Datasets
   (Ranked by accessed number below)
   * [Approved Building Permits](https://data.cityofboston.gov/Permitting/Approved-Building-Permits/msk6-43c6)
@@ -31,6 +32,7 @@
 
 * [BostonMaps: Open Data](http://bostonopendata.boston.opendata.arcgis.com/datasets?sort_by=relevance) 59 Datasets
 * [Boston Wicked Open Data](https://boston.opendatasoft.com/explore/?sort=modified) 69 Datasets
+
 * [Massachusetts Open Data](https://data.mass.gov/browse) 69 Datasets
   (Ranked by accessed number below)
   * [Open Meeting Law Pending Complaints](https://data.mass.gov/dataset/Open-Meeting-Law-Pending-Complaints/7znt-2w6a)
